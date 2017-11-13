@@ -3,5 +3,4 @@ FreeCodeCamp- Personal Portfolio Project: https://www.freecodecamp.org/challenge
 
 
 Template used:
-
-# [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/
+Start Bootstrap - Freelancer: https://startbootstrap.com/template-overviews/freelancer/
